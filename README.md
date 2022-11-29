@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1YrVrQSeD-RFwq54jbCF6XOtoYC_dBs6TPGXBJXFI
 * 因次使用者須切換路徑用以下指令: ../../../nas ， 即可找到nas資料夾  
 
 ## 移folder至NAS操作流程 
-folder移入nas 操作示範影片 : https://drive.google.com/file/d/10J9Rd0Q-XMBjZMtDX41dXHGG7EZyqRaR/view?usp=share_link  
+folder移入nas 操作示範影片 : https://www.youtube.com/watch?v=RcFUuDqtkho
  * 1. 指令:pwd(查看當前路徑: mnt/data0/user_name)  
  * 2. 指令: cp -R folder_name ../../../nas/queue (將folder複製到nas/queue)  
  * 3. 指令: cd ../../../nas (進入nas資料夾)
