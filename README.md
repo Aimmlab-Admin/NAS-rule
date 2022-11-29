@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1YrVrQSeD-RFwq54jbCF6XOtoYC_dBs6TPGXBJXFI
 3. 待申請通過,用戶可至/nas/datasets/xx 自行cp  
 
 ## NAS 所在位置
-* folder移入nas/queue操作示範 : https://drive.google.com/file/d/10J9Rd0Q-XMBjZMtDX41dXHGG7EZyqRaR/view?usp=share_link
+* folder移入nas 操作示範影片 : https://drive.google.com/file/d/10J9Rd0Q-XMBjZMtDX41dXHGG7EZyqRaR/view?usp=share_link
 * 使用者在server上的帳號皆位於 /mnt/data0/usernamexxx，而NAS資料夾位於和前述的mnt資料夾同一層級的位置
 * 因次使用者須切換路徑用以下指令: ../../../nas ， 即可找到nas資料夾
 
