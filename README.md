@@ -12,8 +12,8 @@
 
 1. `/datasets` `/queue` 存取共用資料集
 
-    1. 將現有 datasets 填寫表單(問卷形式)，管理員根據申請項目填寫至 Queue，表單連結為 (待公告！現在請先直接告知管理員)
-    2. 待申請通過，用戶可自行將資料集轉移到 `/nas/datasets/<dataset-folder>`  
+    1. 將現有 datasets 填寫表單(問卷形式)，管理員根據申請項目填寫至 Queue，表單放置在 `/nas/datasets/Register_datasets.xlsx`
+    2. 待申請通過，管理員會將資料集轉移到 `/nas/datasets/<dataset-folder>`  
 
 2. `/projects` 專案雲端 (多人參與專案時，共享資料的空間，可以放置簡報、程式碼、錄影等) (記得向管理員告知)
 3. `/backups` 實驗室重要資料備份空間 (記得向管理員告知)
