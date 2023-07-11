@@ -15,7 +15,7 @@
     1. 將現有 datasets 填寫表單(問卷形式)，管理員根據申請項目填寫至 Queue，表單放置在 `/nas/datasets/Register_datasets.xlsx`
     2. 待申請通過，管理員會將資料集轉移到 `/nas/datasets/<dataset-folder>`  
 
-2. `/projects` 專案雲端 (多人參與專案時，共享資料的空間，可以放置簡報、程式碼、錄影等) (記得向管理員告知)
+2. `/projects` 專案雲端：多人參與專案時，共享資料的空間，可以放置簡報、程式碼、錄影等 (請在資料夾下新增 `member.txt` 留下在學生群上的名稱，讓管理員知道出問題該跟誰聯絡，可看範例 `nas/projects/team-example`)
 3. `/backups` 實驗室重要資料備份空間 (記得向管理員告知)
 
 ## NAS 操作 (Server)
