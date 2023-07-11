@@ -22,7 +22,11 @@
 
 使用者在 Server 上的帳號皆位於 `/mnt/data0/<user-name>`，而 NAS 資料夾位於和前述的 `/mnt` 資料夾同一層級的位置，切換路徑用以下指令 `cd /nas`，即可找到 NAS 資料夾 (不分 3090 或是 2080Tis Server，兩者皆一樣)
 
-大家也可以嘗試將大型資料集，如 ImageNet-1k, CityScape 等，放到 NAS，<span style="color:orange">管理員實測不論是將資料集放在 SSD 或是 NAS 上，訓練速度都不會有太大差異 (BottleNeck 在顯卡上)。</span> 如果發現速度上明顯變慢的話，再請告知管理員做網路優化。
+```diff
+! 大家也可以嘗試將大型資料集，如 ImageNet-1k, CityScape 等，放到 NAS
+! 管理員實測不論是將資料集放在 SSD 或是 NAS 上，訓練速度都不會有太大差異 (BottleNeck 在顯卡上)。
+! 如果發現速度上明顯變慢的話，再請告知管理員做網路優化。
+```
 
 將 dataset 資料集移入 NAS 操作示範影片 : https://www.youtube.com/watch?v=RcFUuDqtkho
 
