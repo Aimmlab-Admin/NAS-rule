@@ -37,7 +37,9 @@
 
 ## NAS PC 映射
 
-NAS 已經開啟 WebDAV 功能，使用者可以將 NAS 直接映射到自己電腦 (https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV)，以一視覺化界面預覽或處理 NAS 上資料，
+NAS 已經開啟 WebDAV 功能，使用者可以將 NAS 直接映射到自己電腦，，以一視覺化界面預覽或處理 NAS 上資料。
+
+官方教學：https://kb.synology.com/zh-hk/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV (不知道為啥直接按下去連結會跳到 403，有興趣想看官方教學的可以複製再貼上，就會正常了XD)
 
 適合將專案共享的資料夾 (`/projects`) 映射到自己電腦，隨時觀看共享文件，再也不用擔心 Google 雲端空間不構的問題 (也不會有 NCTU 帳號畢業後空間被砍的問題 QQ)。
 
